@@ -18,7 +18,5 @@
 ### 활용방안 및 기대효과
    운동을 하다보면 자신이 동작을 몇 회를 실시하였는지  잊어버리게 되는데 Counter기를 통하여 자동으로 자신이 몇 회를 수행했는지 제대로된 자세로 운동을 하였는지 실시간으로 알 수 있으며 RFID를 통하여 헬스회원의 정보를 알 수 있기에 Health care에 도움을 준다. 
       
-### 좋은 자료
-   - [자료 1: Spindle 검출 알고리즘 등등](https://raphaelvallat.com/)
-
 ### 전체 회로 구성
+![Untitled](https://user-images.githubusercontent.com/54785186/236588101-811e8367-60d7-4588-a955-27a2cbb57e1e.png)
